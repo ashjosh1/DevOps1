@@ -1,0 +1,10 @@
+package cg.com;
+
+public class hellllworld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
